@@ -1,4 +1,4 @@
-**Project Title:** **Customer Insights Dashboard (SQL + Python + Power BI)**
+## **Project Title:** **Customer Insights Dashboard (SQL + Python + Power BI)**
 
 ---
 
